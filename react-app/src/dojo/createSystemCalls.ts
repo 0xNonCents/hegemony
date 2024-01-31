@@ -142,6 +142,6 @@ export function createSystemCalls(
     join_game,
     start_game,
     spawn_player,
-    spawn_new_units,
+    spawn_new_units
   };
 }

@@ -1,0 +1,20 @@
+{
+    "0x3e4181510fe75729b54eed267bf1253aa39d73e0e7b1aee11bd291425c22094": {
+        "privateKey": "0x946176de038d469d7255bec1842ceda724e2f892e7472b2c479031dc453931",
+        "publicKey": "0x74c5d8532eec6787bb7c154931913e256f8b385d33e7110d727b04a86fd82c5",
+        "deployTx": "0x199df4a56bb05dd48a6d9489f2a8f9b2327fa2187abe3ec5f19a3c632925671",
+        "active": false
+    },
+    "0x1fe2c972b3aba0ad2e07478d15abdf205a14654d511a0bc0bb6002632ef8010": {
+        "privateKey": "0x469b145764d25855b5d0ea4d322c54a7fbad881503492ed344db71ada8d3899",
+        "publicKey": "0x44c7daf1c9169a861079be720e923647c36836b95c4d34c6629c7960b8b7194",
+        "deployTx": "0x77cd298d2f4d881ba2d0839c43b71a031c29ee9a3a8adaab634bdf7ce2c7abd",
+        "active": false
+    },
+    "0x4f8b8d9d1647e3a1c11074d241fa5d0b1310ea1d58381141603c7b06778154d": {
+        "privateKey": "0x4049013fe90e55c5bd386e96ddca7bd0e4ffa9cb88ee5a572ca538b85b93d4d",
+        "publicKey": "0x10cc7296eefcaf3d64ae960841d07efe217712f480fb982824299637258add6",
+        "deployTx": "0x45cc724aff97eeaac59b6d05ed3d89ace632c25032ba9652ef2e16593f5eeee",
+        "active": false
+    }
+}
